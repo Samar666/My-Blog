@@ -1,7 +1,18 @@
 body{
-background-color: dodgerblue;
-text-align:center;
+text-align: center;    
+} 
+#Tim{
+position: absolute;
+overflow: hidden;
+height: 800px;
+color: #1524c2;
+background: linear-gradient(#162ff0 0%, #ed2884 100%);
+display:table;width: 100%;
+height: 100%;
 }
 h1{
+color:cyan;    
+}
+h2{
 color:aqua;    
 }
