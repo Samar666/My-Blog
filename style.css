@@ -1,18 +1,11 @@
-body{
-text-align: center;    
-} 
-#Tim{
-position: absolute;
-overflow: hidden;
-height: 800px;
-color: #1524c2;
-background: linear-gradient(#162ff0 0%, #ed2884 100%);
-display:table;width: 100%;
-height: 100%;
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
 }
-h1{
-color:cyan;    
+
+.container
+{
+    text-align: center;
 }
-h2{
-color:aqua;    
-}
+
